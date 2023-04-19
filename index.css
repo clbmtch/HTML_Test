@@ -1,3 +1,9 @@
 ﻿body {
+ background-color: Lime;
 }
-
+h1 {
+  color: Magenta
+}
+p {
+  color: yellow
+}
