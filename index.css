@@ -2,8 +2,10 @@
  background-color: Lime;
 }
 h1 {
+  text-align: center;
   color: Magenta
 }
 p {
+  text-align: center;
   color: yellow
 }
